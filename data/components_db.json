@@ -1,0 +1,2819 @@
+{
+ "_info": "Indici prestazionali relativi. CPU: st/mt (Ryzen 9 9950X = 100), gaming (9800X3D = 100). GPU: idx gaming 1440p (RTX 5090 = 100).",
+ "version": "2026.11",
+ "cpus": [
+  {
+   "token": "9950x3d",
+   "vendor": "amd",
+   "st": 98,
+   "mt": 98,
+   "gaming": 98,
+   "year": 2025,
+   "tdp": 170
+  },
+  {
+   "token": "9900x3d",
+   "vendor": "amd",
+   "st": 96,
+   "mt": 78,
+   "gaming": 92,
+   "year": 2025,
+   "tdp": 120
+  },
+  {
+   "token": "9800x3d",
+   "vendor": "amd",
+   "st": 92,
+   "mt": 55,
+   "gaming": 100,
+   "year": 2024,
+   "tdp": 120
+  },
+  {
+   "token": "9950x",
+   "vendor": "amd",
+   "st": 100,
+   "mt": 100,
+   "gaming": 88,
+   "year": 2024,
+   "tdp": 170
+  },
+  {
+   "token": "9900x",
+   "vendor": "amd",
+   "st": 98,
+   "mt": 79,
+   "gaming": 87,
+   "year": 2024,
+   "tdp": 120
+  },
+  {
+   "token": "9700x",
+   "vendor": "amd",
+   "st": 96,
+   "mt": 52,
+   "gaming": 86,
+   "year": 2024,
+   "tdp": 65
+  },
+  {
+   "token": "9600x",
+   "vendor": "amd",
+   "st": 96,
+   "mt": 40,
+   "gaming": 84,
+   "year": 2024,
+   "tdp": 65
+  },
+  {
+   "token": "9600",
+   "vendor": "amd",
+   "st": 94,
+   "mt": 39,
+   "gaming": 82,
+   "year": 2025,
+   "tdp": 65
+  },
+  {
+   "token": "7950x3d",
+   "vendor": "amd",
+   "st": 87,
+   "mt": 83,
+   "gaming": 92,
+   "year": 2023,
+   "tdp": 120
+  },
+  {
+   "token": "7900x3d",
+   "vendor": "amd",
+   "st": 86,
+   "mt": 66,
+   "gaming": 85,
+   "year": 2023,
+   "tdp": 120
+  },
+  {
+   "token": "7800x3d",
+   "vendor": "amd",
+   "st": 80,
+   "mt": 43,
+   "gaming": 93,
+   "year": 2023,
+   "tdp": 120
+  },
+  {
+   "token": "7950x",
+   "vendor": "amd",
+   "st": 91,
+   "mt": 90,
+   "gaming": 80,
+   "year": 2022,
+   "tdp": 170
+  },
+  {
+   "token": "7900x",
+   "vendor": "amd",
+   "st": 89,
+   "mt": 69,
+   "gaming": 79,
+   "year": 2022,
+   "tdp": 170
+  },
+  {
+   "token": "7900",
+   "vendor": "amd",
+   "st": 87,
+   "mt": 65,
+   "gaming": 77,
+   "year": 2023,
+   "tdp": 65
+  },
+  {
+   "token": "7700x",
+   "vendor": "amd",
+   "st": 89,
+   "mt": 47,
+   "gaming": 78,
+   "year": 2022,
+   "tdp": 105
+  },
+  {
+   "token": "7700",
+   "vendor": "amd",
+   "st": 87,
+   "mt": 45,
+   "gaming": 76,
+   "year": 2023,
+   "tdp": 65
+  },
+  {
+   "token": "7600x",
+   "vendor": "amd",
+   "st": 87,
+   "mt": 36,
+   "gaming": 76,
+   "year": 2022,
+   "tdp": 105
+  },
+  {
+   "token": "7600",
+   "vendor": "amd",
+   "st": 85,
+   "mt": 34,
+   "gaming": 74,
+   "year": 2023,
+   "tdp": 65
+  },
+  {
+   "token": "7500f",
+   "vendor": "amd",
+   "st": 84,
+   "mt": 33,
+   "gaming": 72,
+   "year": 2023,
+   "tdp": 65
+  },
+  {
+   "token": "8700g",
+   "vendor": "amd",
+   "st": 80,
+   "mt": 39,
+   "gaming": 64,
+   "year": 2024,
+   "tdp": 65
+  },
+  {
+   "token": "8600g",
+   "vendor": "amd",
+   "st": 78,
+   "mt": 33,
+   "gaming": 62,
+   "year": 2024,
+   "tdp": 65
+  },
+  {
+   "token": "8500g",
+   "vendor": "amd",
+   "st": 72,
+   "mt": 26,
+   "gaming": 55,
+   "year": 2024,
+   "tdp": 65
+  },
+  {
+   "token": "8400f",
+   "vendor": "amd",
+   "st": 76,
+   "mt": 28,
+   "gaming": 60,
+   "year": 2024,
+   "tdp": 65
+  },
+  {
+   "token": "8700f",
+   "vendor": "amd",
+   "st": 80,
+   "mt": 39,
+   "gaming": 66,
+   "year": 2024,
+   "tdp": 65
+  },
+  {
+   "token": "5950x",
+   "vendor": "amd",
+   "st": 73,
+   "mt": 61,
+   "gaming": 64,
+   "year": 2020,
+   "tdp": 105
+  },
+  {
+   "token": "5900xt",
+   "vendor": "amd",
+   "st": 72,
+   "mt": 62,
+   "gaming": 63,
+   "year": 2024,
+   "tdp": 105
+  },
+  {
+   "token": "5900x",
+   "vendor": "amd",
+   "st": 73,
+   "mt": 50,
+   "gaming": 64,
+   "year": 2020,
+   "tdp": 105
+  },
+  {
+   "token": "5800x3d",
+   "vendor": "amd",
+   "st": 66,
+   "mt": 34,
+   "gaming": 78,
+   "year": 2022,
+   "tdp": 105
+  },
+  {
+   "token": "5700x3d",
+   "vendor": "amd",
+   "st": 64,
+   "mt": 33,
+   "gaming": 74,
+   "year": 2024,
+   "tdp": 105
+  },
+  {
+   "token": "5800xt",
+   "vendor": "amd",
+   "st": 72,
+   "mt": 38,
+   "gaming": 63,
+   "year": 2024,
+   "tdp": 105
+  },
+  {
+   "token": "5800x",
+   "vendor": "amd",
+   "st": 71,
+   "mt": 37,
+   "gaming": 62,
+   "year": 2020,
+   "tdp": 105
+  },
+  {
+   "token": "5700x",
+   "vendor": "amd",
+   "st": 69,
+   "mt": 34,
+   "gaming": 60,
+   "year": 2022,
+   "tdp": 65
+  },
+  {
+   "token": "5700",
+   "vendor": "amd",
+   "st": 66,
+   "mt": 32,
+   "gaming": 55,
+   "year": 2023,
+   "tdp": 65
+  },
+  {
+   "token": "5600x3d",
+   "vendor": "amd",
+   "st": 64,
+   "mt": 26,
+   "gaming": 72,
+   "year": 2023,
+   "tdp": 105
+  },
+  {
+   "token": "5600xt",
+   "vendor": "amd",
+   "st": 70,
+   "mt": 27,
+   "gaming": 60,
+   "year": 2024,
+   "tdp": 65
+  },
+  {
+   "token": "5600x",
+   "vendor": "amd",
+   "st": 69,
+   "mt": 26,
+   "gaming": 59,
+   "year": 2020,
+   "tdp": 65
+  },
+  {
+   "token": "5600",
+   "vendor": "amd",
+   "st": 67,
+   "mt": 26,
+   "gaming": 58,
+   "year": 2022,
+   "tdp": 65
+  },
+  {
+   "token": "5500",
+   "vendor": "amd",
+   "st": 64,
+   "mt": 25,
+   "gaming": 50,
+   "year": 2022,
+   "tdp": 65
+  },
+  {
+   "token": "5700g",
+   "vendor": "amd",
+   "st": 67,
+   "mt": 32,
+   "gaming": 52,
+   "year": 2021,
+   "tdp": 65
+  },
+  {
+   "token": "5600g",
+   "vendor": "amd",
+   "st": 64,
+   "mt": 25,
+   "gaming": 49,
+   "year": 2021,
+   "tdp": 65
+  },
+  {
+   "token": "5600gt",
+   "vendor": "amd",
+   "st": 65,
+   "mt": 26,
+   "gaming": 50,
+   "year": 2024,
+   "tdp": 65
+  },
+  {
+   "token": "5500gt",
+   "vendor": "amd",
+   "st": 64,
+   "mt": 25,
+   "gaming": 48,
+   "year": 2024,
+   "tdp": 65
+  },
+  {
+   "token": "4600g",
+   "vendor": "amd",
+   "st": 58,
+   "mt": 22,
+   "gaming": 42,
+   "year": 2022,
+   "tdp": 65
+  },
+  {
+   "token": "4500",
+   "vendor": "amd",
+   "st": 56,
+   "mt": 21,
+   "gaming": 40,
+   "year": 2022,
+   "tdp": 65
+  },
+  {
+   "token": "3950x",
+   "vendor": "amd",
+   "st": 58,
+   "mt": 55,
+   "gaming": 48,
+   "year": 2019,
+   "tdp": 105
+  },
+  {
+   "token": "3900x",
+   "vendor": "amd",
+   "st": 58,
+   "mt": 44,
+   "gaming": 48,
+   "year": 2019,
+   "tdp": 105
+  },
+  {
+   "token": "3800x",
+   "vendor": "amd",
+   "st": 57,
+   "mt": 30,
+   "gaming": 47,
+   "year": 2019,
+   "tdp": 105
+  },
+  {
+   "token": "3700x",
+   "vendor": "amd",
+   "st": 56,
+   "mt": 29,
+   "gaming": 46,
+   "year": 2019,
+   "tdp": 65
+  },
+  {
+   "token": "3600x",
+   "vendor": "amd",
+   "st": 57,
+   "mt": 22,
+   "gaming": 46,
+   "year": 2019,
+   "tdp": 95
+  },
+  {
+   "token": "3600",
+   "vendor": "amd",
+   "st": 56,
+   "mt": 21,
+   "gaming": 45,
+   "year": 2019,
+   "tdp": 65
+  },
+  {
+   "token": "3400g",
+   "vendor": "amd",
+   "st": 48,
+   "mt": 14,
+   "gaming": 34,
+   "year": 2019,
+   "tdp": 65
+  },
+  {
+   "token": "3200g",
+   "vendor": "amd",
+   "st": 46,
+   "mt": 10,
+   "gaming": 30,
+   "year": 2019,
+   "tdp": 65
+  },
+  {
+   "token": "3300x",
+   "vendor": "amd",
+   "st": 57,
+   "mt": 15,
+   "gaming": 44,
+   "year": 2020,
+   "tdp": 65
+  },
+  {
+   "token": "3100",
+   "vendor": "amd",
+   "st": 53,
+   "mt": 14,
+   "gaming": 38,
+   "year": 2020,
+   "tdp": 65
+  },
+  {
+   "token": "2700x",
+   "vendor": "amd",
+   "st": 48,
+   "mt": 24,
+   "gaming": 37,
+   "year": 2018,
+   "tdp": 105
+  },
+  {
+   "token": "2700",
+   "vendor": "amd",
+   "st": 46,
+   "mt": 22,
+   "gaming": 35,
+   "year": 2018,
+   "tdp": 65
+  },
+  {
+   "token": "2600x",
+   "vendor": "amd",
+   "st": 48,
+   "mt": 18,
+   "gaming": 36,
+   "year": 2018,
+   "tdp": 95
+  },
+  {
+   "token": "2600",
+   "vendor": "amd",
+   "st": 47,
+   "mt": 17,
+   "gaming": 35,
+   "year": 2018,
+   "tdp": 65
+  },
+  {
+   "token": "2400g",
+   "vendor": "amd",
+   "st": 44,
+   "mt": 12,
+   "gaming": 28,
+   "year": 2018,
+   "tdp": 65
+  },
+  {
+   "token": "2200g",
+   "vendor": "amd",
+   "st": 43,
+   "mt": 9,
+   "gaming": 25,
+   "year": 2018,
+   "tdp": 65
+  },
+  {
+   "token": "1800x",
+   "vendor": "amd",
+   "st": 43,
+   "mt": 20,
+   "gaming": 30,
+   "year": 2017,
+   "tdp": 95
+  },
+  {
+   "token": "1700x",
+   "vendor": "amd",
+   "st": 42,
+   "mt": 19,
+   "gaming": 29,
+   "year": 2017,
+   "tdp": 95
+  },
+  {
+   "token": "1700",
+   "vendor": "amd",
+   "st": 41,
+   "mt": 18,
+   "gaming": 28,
+   "year": 2017,
+   "tdp": 65
+  },
+  {
+   "token": "1600x",
+   "vendor": "amd",
+   "st": 43,
+   "mt": 15,
+   "gaming": 29,
+   "year": 2017,
+   "tdp": 95
+  },
+  {
+   "token": "1600",
+   "vendor": "amd",
+   "st": 42,
+   "mt": 15,
+   "gaming": 28,
+   "year": 2017,
+   "tdp": 65
+  },
+  {
+   "token": "1500x",
+   "vendor": "amd",
+   "st": 41,
+   "mt": 10,
+   "gaming": 26,
+   "year": 2017,
+   "tdp": 65
+  },
+  {
+   "token": "1200",
+   "vendor": "amd",
+   "st": 40,
+   "mt": 8,
+   "gaming": 22,
+   "year": 2017,
+   "tdp": 65
+  },
+  {
+   "token": "ai 9 hx 375",
+   "vendor": "amd",
+   "st": 88,
+   "mt": 54,
+   "gaming": 70,
+   "year": 2024,
+   "tdp": 28
+  },
+  {
+   "token": "ai 9 hx 370",
+   "vendor": "amd",
+   "st": 87,
+   "mt": 52,
+   "gaming": 70,
+   "year": 2024,
+   "tdp": 28
+  },
+  {
+   "token": "ai 9 365",
+   "vendor": "amd",
+   "st": 85,
+   "mt": 46,
+   "gaming": 66,
+   "year": 2024,
+   "tdp": 28
+  },
+  {
+   "token": "ai 7 350",
+   "vendor": "amd",
+   "st": 84,
+   "mt": 40,
+   "gaming": 64,
+   "year": 2025,
+   "tdp": 28
+  },
+  {
+   "token": "ai 5 340",
+   "vendor": "amd",
+   "st": 82,
+   "mt": 33,
+   "gaming": 60,
+   "year": 2025,
+   "tdp": 28
+  },
+  {
+   "token": "9955hx3d",
+   "vendor": "amd",
+   "st": 95,
+   "mt": 90,
+   "gaming": 95,
+   "year": 2025,
+   "tdp": 55
+  },
+  {
+   "token": "9955hx",
+   "vendor": "amd",
+   "st": 96,
+   "mt": 90,
+   "gaming": 85,
+   "year": 2025,
+   "tdp": 55
+  },
+  {
+   "token": "7945hx",
+   "vendor": "amd",
+   "st": 88,
+   "mt": 80,
+   "gaming": 78,
+   "year": 2023,
+   "tdp": 55
+  },
+  {
+   "token": "8945hs",
+   "vendor": "amd",
+   "st": 78,
+   "mt": 40,
+   "gaming": 62,
+   "year": 2024,
+   "tdp": 45
+  },
+  {
+   "token": "8845hs",
+   "vendor": "amd",
+   "st": 78,
+   "mt": 40,
+   "gaming": 62,
+   "year": 2024,
+   "tdp": 45
+  },
+  {
+   "token": "8645hs",
+   "vendor": "amd",
+   "st": 76,
+   "mt": 33,
+   "gaming": 58,
+   "year": 2024,
+   "tdp": 45
+  },
+  {
+   "token": "7840hs",
+   "vendor": "amd",
+   "st": 78,
+   "mt": 40,
+   "gaming": 62,
+   "year": 2023,
+   "tdp": 35
+  },
+  {
+   "token": "7840u",
+   "vendor": "amd",
+   "st": 75,
+   "mt": 33,
+   "gaming": 56,
+   "year": 2023,
+   "tdp": 28
+  },
+  {
+   "token": "7640hs",
+   "vendor": "amd",
+   "st": 76,
+   "mt": 33,
+   "gaming": 58,
+   "year": 2023,
+   "tdp": 35
+  },
+  {
+   "token": "7735hs",
+   "vendor": "amd",
+   "st": 68,
+   "mt": 32,
+   "gaming": 52,
+   "year": 2023,
+   "tdp": 35
+  },
+  {
+   "token": "7530u",
+   "vendor": "amd",
+   "st": 60,
+   "mt": 22,
+   "gaming": 42,
+   "year": 2023,
+   "tdp": 15
+  },
+  {
+   "token": "7520u",
+   "vendor": "amd",
+   "st": 48,
+   "mt": 10,
+   "gaming": 30,
+   "year": 2022,
+   "tdp": 15
+  },
+  {
+   "token": "6800h",
+   "vendor": "amd",
+   "st": 68,
+   "mt": 32,
+   "gaming": 52,
+   "year": 2022,
+   "tdp": 45
+  },
+  {
+   "token": "6600h",
+   "vendor": "amd",
+   "st": 66,
+   "mt": 25,
+   "gaming": 48,
+   "year": 2022,
+   "tdp": 45
+  },
+  {
+   "token": "5800h",
+   "vendor": "amd",
+   "st": 64,
+   "mt": 30,
+   "gaming": 48,
+   "year": 2021,
+   "tdp": 45
+  },
+  {
+   "token": "5600h",
+   "vendor": "amd",
+   "st": 62,
+   "mt": 24,
+   "gaming": 46,
+   "year": 2021,
+   "tdp": 45
+  },
+  {
+   "token": "5700u",
+   "vendor": "amd",
+   "st": 55,
+   "mt": 22,
+   "gaming": 38,
+   "year": 2021,
+   "tdp": 15
+  },
+  {
+   "token": "5500u",
+   "vendor": "amd",
+   "st": 52,
+   "mt": 18,
+   "gaming": 36,
+   "year": 2021,
+   "tdp": 15
+  },
+  {
+   "token": "4800h",
+   "vendor": "amd",
+   "st": 55,
+   "mt": 27,
+   "gaming": 42,
+   "year": 2020,
+   "tdp": 45
+  },
+  {
+   "token": "4600h",
+   "vendor": "amd",
+   "st": 53,
+   "mt": 21,
+   "gaming": 40,
+   "year": 2020,
+   "tdp": 45
+  },
+  {
+   "token": "4500u",
+   "vendor": "amd",
+   "st": 50,
+   "mt": 15,
+   "gaming": 34,
+   "year": 2020,
+   "tdp": 15
+  },
+  {
+   "token": "3500u",
+   "vendor": "amd",
+   "st": 40,
+   "mt": 8,
+   "gaming": 24,
+   "year": 2019,
+   "tdp": 15
+  },
+  {
+   "token": "285k",
+   "vendor": "intel",
+   "st": 102,
+   "mt": 100,
+   "gaming": 90,
+   "year": 2024,
+   "tdp": 125
+  },
+  {
+   "token": "265k",
+   "vendor": "intel",
+   "st": 98,
+   "mt": 86,
+   "gaming": 87,
+   "year": 2024,
+   "tdp": 125
+  },
+  {
+   "token": "265kf",
+   "vendor": "intel",
+   "st": 98,
+   "mt": 86,
+   "gaming": 87,
+   "year": 2024,
+   "tdp": 125
+  },
+  {
+   "token": "245k",
+   "vendor": "intel",
+   "st": 93,
+   "mt": 60,
+   "gaming": 82,
+   "year": 2024,
+   "tdp": 125
+  },
+  {
+   "token": "245kf",
+   "vendor": "intel",
+   "st": 93,
+   "mt": 60,
+   "gaming": 82,
+   "year": 2024,
+   "tdp": 125
+  },
+  {
+   "token": "265",
+   "vendor": "intel",
+   "st": 95,
+   "mt": 78,
+   "gaming": 84,
+   "year": 2025,
+   "tdp": 65
+  },
+  {
+   "token": "245",
+   "vendor": "intel",
+   "st": 90,
+   "mt": 55,
+   "gaming": 79,
+   "year": 2025,
+   "tdp": 65
+  },
+  {
+   "token": "225",
+   "vendor": "intel",
+   "st": 88,
+   "mt": 42,
+   "gaming": 74,
+   "year": 2025,
+   "tdp": 65
+  },
+  {
+   "token": "285",
+   "vendor": "intel",
+   "st": 98,
+   "mt": 90,
+   "gaming": 86,
+   "year": 2025,
+   "tdp": 65
+  },
+  {
+   "token": "14900ks",
+   "vendor": "intel",
+   "st": 104,
+   "mt": 94,
+   "gaming": 91,
+   "year": 2024,
+   "tdp": 150
+  },
+  {
+   "token": "14900k",
+   "vendor": "intel",
+   "st": 102,
+   "mt": 92,
+   "gaming": 90,
+   "year": 2023,
+   "tdp": 125
+  },
+  {
+   "token": "14900",
+   "vendor": "intel",
+   "st": 98,
+   "mt": 80,
+   "gaming": 86,
+   "year": 2024,
+   "tdp": 65
+  },
+  {
+   "token": "14700k",
+   "vendor": "intel",
+   "st": 96,
+   "mt": 85,
+   "gaming": 87,
+   "year": 2023,
+   "tdp": 125
+  },
+  {
+   "token": "14700",
+   "vendor": "intel",
+   "st": 93,
+   "mt": 75,
+   "gaming": 84,
+   "year": 2024,
+   "tdp": 65
+  },
+  {
+   "token": "14600k",
+   "vendor": "intel",
+   "st": 91,
+   "mt": 58,
+   "gaming": 83,
+   "year": 2023,
+   "tdp": 125
+  },
+  {
+   "token": "14600",
+   "vendor": "intel",
+   "st": 88,
+   "mt": 50,
+   "gaming": 78,
+   "year": 2024,
+   "tdp": 65
+  },
+  {
+   "token": "14500",
+   "vendor": "intel",
+   "st": 86,
+   "mt": 46,
+   "gaming": 76,
+   "year": 2024,
+   "tdp": 65
+  },
+  {
+   "token": "14400",
+   "vendor": "intel",
+   "st": 82,
+   "mt": 40,
+   "gaming": 73,
+   "year": 2024,
+   "tdp": 65
+  },
+  {
+   "token": "14100",
+   "vendor": "intel",
+   "st": 78,
+   "mt": 22,
+   "gaming": 65,
+   "year": 2024,
+   "tdp": 60
+  },
+  {
+   "token": "13900ks",
+   "vendor": "intel",
+   "st": 103,
+   "mt": 93,
+   "gaming": 90,
+   "year": 2023,
+   "tdp": 150
+  },
+  {
+   "token": "13900k",
+   "vendor": "intel",
+   "st": 100,
+   "mt": 92,
+   "gaming": 89,
+   "year": 2022,
+   "tdp": 125
+  },
+  {
+   "token": "13900",
+   "vendor": "intel",
+   "st": 96,
+   "mt": 78,
+   "gaming": 85,
+   "year": 2023,
+   "tdp": 65
+  },
+  {
+   "token": "13700k",
+   "vendor": "intel",
+   "st": 93,
+   "mt": 73,
+   "gaming": 85,
+   "year": 2022,
+   "tdp": 125
+  },
+  {
+   "token": "13700",
+   "vendor": "intel",
+   "st": 90,
+   "mt": 65,
+   "gaming": 82,
+   "year": 2023,
+   "tdp": 65
+  },
+  {
+   "token": "13600k",
+   "vendor": "intel",
+   "st": 89,
+   "mt": 57,
+   "gaming": 82,
+   "year": 2022,
+   "tdp": 125
+  },
+  {
+   "token": "13600",
+   "vendor": "intel",
+   "st": 86,
+   "mt": 48,
+   "gaming": 77,
+   "year": 2023,
+   "tdp": 65
+  },
+  {
+   "token": "13500",
+   "vendor": "intel",
+   "st": 85,
+   "mt": 46,
+   "gaming": 76,
+   "year": 2023,
+   "tdp": 65
+  },
+  {
+   "token": "13400",
+   "vendor": "intel",
+   "st": 80,
+   "mt": 38,
+   "gaming": 71,
+   "year": 2023,
+   "tdp": 65
+  },
+  {
+   "token": "13100",
+   "vendor": "intel",
+   "st": 77,
+   "mt": 21,
+   "gaming": 63,
+   "year": 2023,
+   "tdp": 60
+  },
+  {
+   "token": "12900ks",
+   "vendor": "intel",
+   "st": 92,
+   "mt": 68,
+   "gaming": 82,
+   "year": 2022,
+   "tdp": 150
+  },
+  {
+   "token": "12900k",
+   "vendor": "intel",
+   "st": 89,
+   "mt": 65,
+   "gaming": 80,
+   "year": 2021,
+   "tdp": 125
+  },
+  {
+   "token": "12900",
+   "vendor": "intel",
+   "st": 86,
+   "mt": 56,
+   "gaming": 77,
+   "year": 2022,
+   "tdp": 65
+  },
+  {
+   "token": "12700k",
+   "vendor": "intel",
+   "st": 87,
+   "mt": 54,
+   "gaming": 78,
+   "year": 2021,
+   "tdp": 125
+  },
+  {
+   "token": "12700",
+   "vendor": "intel",
+   "st": 85,
+   "mt": 48,
+   "gaming": 75,
+   "year": 2022,
+   "tdp": 65
+  },
+  {
+   "token": "12600k",
+   "vendor": "intel",
+   "st": 84,
+   "mt": 42,
+   "gaming": 75,
+   "year": 2021,
+   "tdp": 125
+  },
+  {
+   "token": "12600",
+   "vendor": "intel",
+   "st": 82,
+   "mt": 30,
+   "gaming": 72,
+   "year": 2022,
+   "tdp": 65
+  },
+  {
+   "token": "12500",
+   "vendor": "intel",
+   "st": 80,
+   "mt": 29,
+   "gaming": 70,
+   "year": 2022,
+   "tdp": 65
+  },
+  {
+   "token": "12400",
+   "vendor": "intel",
+   "st": 78,
+   "mt": 29,
+   "gaming": 69,
+   "year": 2022,
+   "tdp": 65
+  },
+  {
+   "token": "12100",
+   "vendor": "intel",
+   "st": 76,
+   "mt": 21,
+   "gaming": 62,
+   "year": 2022,
+   "tdp": 60
+  },
+  {
+   "token": "12300",
+   "vendor": "intel",
+   "st": 77,
+   "mt": 22,
+   "gaming": 63,
+   "year": 2022,
+   "tdp": 60
+  },
+  {
+   "token": "11900k",
+   "vendor": "intel",
+   "st": 73,
+   "mt": 37,
+   "gaming": 60,
+   "year": 2021,
+   "tdp": 125
+  },
+  {
+   "token": "11700k",
+   "vendor": "intel",
+   "st": 71,
+   "mt": 35,
+   "gaming": 58,
+   "year": 2021,
+   "tdp": 125
+  },
+  {
+   "token": "11700",
+   "vendor": "intel",
+   "st": 68,
+   "mt": 32,
+   "gaming": 55,
+   "year": 2021,
+   "tdp": 65
+  },
+  {
+   "token": "11600k",
+   "vendor": "intel",
+   "st": 70,
+   "mt": 28,
+   "gaming": 57,
+   "year": 2021,
+   "tdp": 125
+  },
+  {
+   "token": "11500",
+   "vendor": "intel",
+   "st": 65,
+   "mt": 25,
+   "gaming": 53,
+   "year": 2021,
+   "tdp": 65
+  },
+  {
+   "token": "11400",
+   "vendor": "intel",
+   "st": 64,
+   "mt": 25,
+   "gaming": 52,
+   "year": 2021,
+   "tdp": 65
+  },
+  {
+   "token": "10900k",
+   "vendor": "intel",
+   "st": 62,
+   "mt": 35,
+   "gaming": 55,
+   "year": 2020,
+   "tdp": 125
+  },
+  {
+   "token": "10900",
+   "vendor": "intel",
+   "st": 60,
+   "mt": 31,
+   "gaming": 52,
+   "year": 2020,
+   "tdp": 65
+  },
+  {
+   "token": "10850k",
+   "vendor": "intel",
+   "st": 61,
+   "mt": 34,
+   "gaming": 54,
+   "year": 2020,
+   "tdp": 125
+  },
+  {
+   "token": "10700k",
+   "vendor": "intel",
+   "st": 60,
+   "mt": 30,
+   "gaming": 52,
+   "year": 2020,
+   "tdp": 125
+  },
+  {
+   "token": "10700",
+   "vendor": "intel",
+   "st": 58,
+   "mt": 27,
+   "gaming": 50,
+   "year": 2020,
+   "tdp": 65
+  },
+  {
+   "token": "10600k",
+   "vendor": "intel",
+   "st": 58,
+   "mt": 23,
+   "gaming": 50,
+   "year": 2020,
+   "tdp": 125
+  },
+  {
+   "token": "10500",
+   "vendor": "intel",
+   "st": 55,
+   "mt": 21,
+   "gaming": 46,
+   "year": 2020,
+   "tdp": 65
+  },
+  {
+   "token": "10400",
+   "vendor": "intel",
+   "st": 53,
+   "mt": 20,
+   "gaming": 45,
+   "year": 2020,
+   "tdp": 65
+  },
+  {
+   "token": "10100",
+   "vendor": "intel",
+   "st": 51,
+   "mt": 13,
+   "gaming": 40,
+   "year": 2020,
+   "tdp": 65
+  },
+  {
+   "token": "9900k",
+   "vendor": "intel",
+   "st": 56,
+   "mt": 30,
+   "gaming": 50,
+   "year": 2018,
+   "tdp": 95
+  },
+  {
+   "token": "9900",
+   "vendor": "intel",
+   "st": 54,
+   "mt": 27,
+   "gaming": 47,
+   "year": 2019,
+   "tdp": 65
+  },
+  {
+   "token": "9700k",
+   "vendor": "intel",
+   "st": 53,
+   "mt": 23,
+   "gaming": 48,
+   "year": 2018,
+   "tdp": 95
+  },
+  {
+   "token": "9700",
+   "vendor": "intel",
+   "st": 51,
+   "mt": 21,
+   "gaming": 45,
+   "year": 2019,
+   "tdp": 65
+  },
+  {
+   "token": "9600k",
+   "vendor": "intel",
+   "st": 51,
+   "mt": 16,
+   "gaming": 44,
+   "year": 2018,
+   "tdp": 95
+  },
+  {
+   "token": "9400",
+   "vendor": "intel",
+   "st": 49,
+   "mt": 14,
+   "gaming": 40,
+   "year": 2019,
+   "tdp": 65
+  },
+  {
+   "token": "9100",
+   "vendor": "intel",
+   "st": 47,
+   "mt": 10,
+   "gaming": 34,
+   "year": 2019,
+   "tdp": 65
+  },
+  {
+   "token": "8700k",
+   "vendor": "intel",
+   "st": 53,
+   "mt": 25,
+   "gaming": 46,
+   "year": 2017,
+   "tdp": 95
+  },
+  {
+   "token": "8700",
+   "vendor": "intel",
+   "st": 50,
+   "mt": 22,
+   "gaming": 43,
+   "year": 2017,
+   "tdp": 65
+  },
+  {
+   "token": "8600k",
+   "vendor": "intel",
+   "st": 50,
+   "mt": 16,
+   "gaming": 42,
+   "year": 2017,
+   "tdp": 95
+  },
+  {
+   "token": "8400",
+   "vendor": "intel",
+   "st": 47,
+   "mt": 14,
+   "gaming": 38,
+   "year": 2017,
+   "tdp": 65
+  },
+  {
+   "token": "8100",
+   "vendor": "intel",
+   "st": 45,
+   "mt": 9,
+   "gaming": 31,
+   "year": 2017,
+   "tdp": 65
+  },
+  {
+   "token": "7700k",
+   "vendor": "intel",
+   "st": 51,
+   "mt": 14,
+   "gaming": 38,
+   "year": 2017,
+   "tdp": 91
+  },
+  {
+   "token": "7700",
+   "vendor": "intel",
+   "st": 48,
+   "mt": 13,
+   "gaming": 36,
+   "year": 2017,
+   "tdp": 65
+  },
+  {
+   "token": "7600k",
+   "vendor": "intel",
+   "st": 49,
+   "mt": 10,
+   "gaming": 33,
+   "year": 2017,
+   "tdp": 91
+  },
+  {
+   "token": "7500",
+   "vendor": "intel",
+   "st": 45,
+   "mt": 9,
+   "gaming": 30,
+   "year": 2017,
+   "tdp": 65
+  },
+  {
+   "token": "6700k",
+   "vendor": "intel",
+   "st": 47,
+   "mt": 13,
+   "gaming": 35,
+   "year": 2015,
+   "tdp": 91
+  },
+  {
+   "token": "6700",
+   "vendor": "intel",
+   "st": 45,
+   "mt": 12,
+   "gaming": 33,
+   "year": 2015,
+   "tdp": 65
+  },
+  {
+   "token": "6600k",
+   "vendor": "intel",
+   "st": 45,
+   "mt": 9,
+   "gaming": 30,
+   "year": 2015,
+   "tdp": 91
+  },
+  {
+   "token": "6500",
+   "vendor": "intel",
+   "st": 42,
+   "mt": 8,
+   "gaming": 27,
+   "year": 2015,
+   "tdp": 65
+  },
+  {
+   "token": "4790k",
+   "vendor": "intel",
+   "st": 42,
+   "mt": 11,
+   "gaming": 30,
+   "year": 2014,
+   "tdp": 88
+  },
+  {
+   "token": "4770k",
+   "vendor": "intel",
+   "st": 40,
+   "mt": 10,
+   "gaming": 28,
+   "year": 2013,
+   "tdp": 84
+  },
+  {
+   "token": "4770",
+   "vendor": "intel",
+   "st": 39,
+   "mt": 10,
+   "gaming": 27,
+   "year": 2013,
+   "tdp": 84
+  },
+  {
+   "token": "4690k",
+   "vendor": "intel",
+   "st": 40,
+   "mt": 8,
+   "gaming": 26,
+   "year": 2014,
+   "tdp": 88
+  },
+  {
+   "token": "4590",
+   "vendor": "intel",
+   "st": 37,
+   "mt": 7,
+   "gaming": 24,
+   "year": 2014,
+   "tdp": 84
+  },
+  {
+   "token": "4460",
+   "vendor": "intel",
+   "st": 35,
+   "mt": 7,
+   "gaming": 22,
+   "year": 2014,
+   "tdp": 84
+  },
+  {
+   "token": "3770k",
+   "vendor": "intel",
+   "st": 35,
+   "mt": 9,
+   "gaming": 23,
+   "year": 2012,
+   "tdp": 77
+  },
+  {
+   "token": "3570k",
+   "vendor": "intel",
+   "st": 34,
+   "mt": 7,
+   "gaming": 21,
+   "year": 2012,
+   "tdp": 77
+  },
+  {
+   "token": "2600k",
+   "vendor": "intel",
+   "st": 31,
+   "mt": 7,
+   "gaming": 19,
+   "year": 2011,
+   "tdp": 95
+  },
+  {
+   "token": "2500k",
+   "vendor": "intel",
+   "st": 30,
+   "mt": 6,
+   "gaming": 17,
+   "year": 2011,
+   "tdp": 95
+  },
+  {
+   "token": "275hx",
+   "vendor": "intel",
+   "st": 100,
+   "mt": 88,
+   "gaming": 86,
+   "year": 2025,
+   "tdp": 55
+  },
+  {
+   "token": "255hx",
+   "vendor": "intel",
+   "st": 96,
+   "mt": 75,
+   "gaming": 82,
+   "year": 2025,
+   "tdp": 55
+  },
+  {
+   "token": "285h",
+   "vendor": "intel",
+   "st": 92,
+   "mt": 52,
+   "gaming": 74,
+   "year": 2025,
+   "tdp": 45
+  },
+  {
+   "token": "255h",
+   "vendor": "intel",
+   "st": 90,
+   "mt": 48,
+   "gaming": 72,
+   "year": 2025,
+   "tdp": 45
+  },
+  {
+   "token": "258v",
+   "vendor": "intel",
+   "st": 88,
+   "mt": 30,
+   "gaming": 66,
+   "year": 2024,
+   "tdp": 17
+  },
+  {
+   "token": "268v",
+   "vendor": "intel",
+   "st": 89,
+   "mt": 31,
+   "gaming": 67,
+   "year": 2024,
+   "tdp": 17
+  },
+  {
+   "token": "226v",
+   "vendor": "intel",
+   "st": 84,
+   "mt": 26,
+   "gaming": 60,
+   "year": 2024,
+   "tdp": 17
+  },
+  {
+   "token": "185h",
+   "vendor": "intel",
+   "st": 80,
+   "mt": 44,
+   "gaming": 66,
+   "year": 2023,
+   "tdp": 45
+  },
+  {
+   "token": "165h",
+   "vendor": "intel",
+   "st": 79,
+   "mt": 42,
+   "gaming": 64,
+   "year": 2023,
+   "tdp": 28
+  },
+  {
+   "token": "155h",
+   "vendor": "intel",
+   "st": 78,
+   "mt": 40,
+   "gaming": 62,
+   "year": 2023,
+   "tdp": 28
+  },
+  {
+   "token": "125h",
+   "vendor": "intel",
+   "st": 76,
+   "mt": 36,
+   "gaming": 59,
+   "year": 2023,
+   "tdp": 28
+  },
+  {
+   "token": "155u",
+   "vendor": "intel",
+   "st": 74,
+   "mt": 22,
+   "gaming": 52,
+   "year": 2023,
+   "tdp": 15
+  },
+  {
+   "token": "125u",
+   "vendor": "intel",
+   "st": 72,
+   "mt": 20,
+   "gaming": 50,
+   "year": 2023,
+   "tdp": 15
+  },
+  {
+   "token": "14900hx",
+   "vendor": "intel",
+   "st": 98,
+   "mt": 80,
+   "gaming": 85,
+   "year": 2024,
+   "tdp": 55
+  },
+  {
+   "token": "14700hx",
+   "vendor": "intel",
+   "st": 94,
+   "mt": 68,
+   "gaming": 81,
+   "year": 2024,
+   "tdp": 55
+  },
+  {
+   "token": "13980hx",
+   "vendor": "intel",
+   "st": 97,
+   "mt": 78,
+   "gaming": 84,
+   "year": 2023,
+   "tdp": 55
+  },
+  {
+   "token": "13900hx",
+   "vendor": "intel",
+   "st": 96,
+   "mt": 76,
+   "gaming": 83,
+   "year": 2023,
+   "tdp": 55
+  },
+  {
+   "token": "13700hx",
+   "vendor": "intel",
+   "st": 90,
+   "mt": 60,
+   "gaming": 78,
+   "year": 2023,
+   "tdp": 55
+  },
+  {
+   "token": "13650hx",
+   "vendor": "intel",
+   "st": 88,
+   "mt": 50,
+   "gaming": 76,
+   "year": 2023,
+   "tdp": 55
+  },
+  {
+   "token": "13620h",
+   "vendor": "intel",
+   "st": 84,
+   "mt": 38,
+   "gaming": 70,
+   "year": 2023,
+   "tdp": 45
+  },
+  {
+   "token": "13700h",
+   "vendor": "intel",
+   "st": 86,
+   "mt": 42,
+   "gaming": 72,
+   "year": 2023,
+   "tdp": 45
+  },
+  {
+   "token": "13500h",
+   "vendor": "intel",
+   "st": 83,
+   "mt": 38,
+   "gaming": 68,
+   "year": 2023,
+   "tdp": 45
+  },
+  {
+   "token": "13420h",
+   "vendor": "intel",
+   "st": 80,
+   "mt": 30,
+   "gaming": 64,
+   "year": 2023,
+   "tdp": 45
+  },
+  {
+   "token": "1355u",
+   "vendor": "intel",
+   "st": 76,
+   "mt": 20,
+   "gaming": 55,
+   "year": 2023,
+   "tdp": 15
+  },
+  {
+   "token": "1335u",
+   "vendor": "intel",
+   "st": 75,
+   "mt": 19,
+   "gaming": 54,
+   "year": 2023,
+   "tdp": 15
+  },
+  {
+   "token": "12900h",
+   "vendor": "intel",
+   "st": 85,
+   "mt": 44,
+   "gaming": 72,
+   "year": 2022,
+   "tdp": 45
+  },
+  {
+   "token": "12700h",
+   "vendor": "intel",
+   "st": 82,
+   "mt": 39,
+   "gaming": 69,
+   "year": 2022,
+   "tdp": 45
+  },
+  {
+   "token": "12650h",
+   "vendor": "intel",
+   "st": 81,
+   "mt": 34,
+   "gaming": 67,
+   "year": 2022,
+   "tdp": 45
+  },
+  {
+   "token": "12500h",
+   "vendor": "intel",
+   "st": 79,
+   "mt": 34,
+   "gaming": 65,
+   "year": 2022,
+   "tdp": 45
+  },
+  {
+   "token": "12450h",
+   "vendor": "intel",
+   "st": 76,
+   "mt": 25,
+   "gaming": 60,
+   "year": 2022,
+   "tdp": 45
+  },
+  {
+   "token": "1260p",
+   "vendor": "intel",
+   "st": 76,
+   "mt": 28,
+   "gaming": 58,
+   "year": 2022,
+   "tdp": 28
+  },
+  {
+   "token": "1255u",
+   "vendor": "intel",
+   "st": 73,
+   "mt": 19,
+   "gaming": 52,
+   "year": 2022,
+   "tdp": 15
+  },
+  {
+   "token": "1235u",
+   "vendor": "intel",
+   "st": 71,
+   "mt": 19,
+   "gaming": 50,
+   "year": 2022,
+   "tdp": 15
+  },
+  {
+   "token": "1215u",
+   "vendor": "intel",
+   "st": 68,
+   "mt": 12,
+   "gaming": 44,
+   "year": 2022,
+   "tdp": 15
+  },
+  {
+   "token": "11800h",
+   "vendor": "intel",
+   "st": 66,
+   "mt": 30,
+   "gaming": 52,
+   "year": 2021,
+   "tdp": 45
+  },
+  {
+   "token": "11400h",
+   "vendor": "intel",
+   "st": 63,
+   "mt": 25,
+   "gaming": 49,
+   "year": 2021,
+   "tdp": 45
+  },
+  {
+   "token": "1165g7",
+   "vendor": "intel",
+   "st": 62,
+   "mt": 14,
+   "gaming": 42,
+   "year": 2020,
+   "tdp": 28
+  },
+  {
+   "token": "1135g7",
+   "vendor": "intel",
+   "st": 60,
+   "mt": 13,
+   "gaming": 40,
+   "year": 2020,
+   "tdp": 28
+  },
+  {
+   "token": "1155g7",
+   "vendor": "intel",
+   "st": 63,
+   "mt": 14,
+   "gaming": 43,
+   "year": 2021,
+   "tdp": 28
+  },
+  {
+   "token": "10750h",
+   "vendor": "intel",
+   "st": 54,
+   "mt": 22,
+   "gaming": 43,
+   "year": 2020,
+   "tdp": 45
+  },
+  {
+   "token": "10870h",
+   "vendor": "intel",
+   "st": 56,
+   "mt": 26,
+   "gaming": 45,
+   "year": 2020,
+   "tdp": 45
+  },
+  {
+   "token": "10510u",
+   "vendor": "intel",
+   "st": 48,
+   "mt": 10,
+   "gaming": 32,
+   "year": 2019,
+   "tdp": 15
+  },
+  {
+   "token": "10210u",
+   "vendor": "intel",
+   "st": 46,
+   "mt": 9,
+   "gaming": 30,
+   "year": 2019,
+   "tdp": 15
+  },
+  {
+   "token": "8750h",
+   "vendor": "intel",
+   "st": 48,
+   "mt": 18,
+   "gaming": 38,
+   "year": 2018,
+   "tdp": 45
+  },
+  {
+   "token": "8550u",
+   "vendor": "intel",
+   "st": 42,
+   "mt": 9,
+   "gaming": 28,
+   "year": 2017,
+   "tdp": 15
+  },
+  {
+   "token": "8250u",
+   "vendor": "intel",
+   "st": 40,
+   "mt": 8,
+   "gaming": 26,
+   "year": 2017,
+   "tdp": 15
+  },
+  {
+   "token": "7500u",
+   "vendor": "intel",
+   "st": 33,
+   "mt": 4,
+   "gaming": 18,
+   "year": 2016,
+   "tdp": 15
+  }
+ ],
+ "gpus": [
+  {
+   "token": "rtx 5090",
+   "idx": 100,
+   "vram": 32,
+   "year": 2025,
+   "tdp": 575
+  },
+  {
+   "token": "rtx 5080",
+   "idx": 66,
+   "vram": 16,
+   "year": 2025,
+   "tdp": 360
+  },
+  {
+   "token": "rtx 5070 ti",
+   "idx": 58,
+   "vram": 16,
+   "year": 2025,
+   "tdp": 300
+  },
+  {
+   "token": "rtx 5070",
+   "idx": 46,
+   "vram": 12,
+   "year": 2025,
+   "tdp": 250
+  },
+  {
+   "token": "rtx 5060 ti",
+   "idx": 34,
+   "vram": 16,
+   "year": 2025,
+   "tdp": 180
+  },
+  {
+   "token": "rtx 5060",
+   "idx": 28,
+   "vram": 8,
+   "year": 2025,
+   "tdp": 145
+  },
+  {
+   "token": "rtx 5050",
+   "idx": 21,
+   "vram": 8,
+   "year": 2025,
+   "tdp": 130
+  },
+  {
+   "token": "rtx 4090",
+   "idx": 80,
+   "vram": 24,
+   "year": 2022,
+   "tdp": 450
+  },
+  {
+   "token": "rtx 4080 super",
+   "idx": 61,
+   "vram": 16,
+   "year": 2024,
+   "tdp": 320
+  },
+  {
+   "token": "rtx 4080",
+   "idx": 60,
+   "vram": 16,
+   "year": 2022,
+   "tdp": 320
+  },
+  {
+   "token": "rtx 4070 ti super",
+   "idx": 52,
+   "vram": 16,
+   "year": 2024,
+   "tdp": 285
+  },
+  {
+   "token": "rtx 4070 ti",
+   "idx": 48,
+   "vram": 12,
+   "year": 2023,
+   "tdp": 285
+  },
+  {
+   "token": "rtx 4070 super",
+   "idx": 44,
+   "vram": 12,
+   "year": 2024,
+   "tdp": 220
+  },
+  {
+   "token": "rtx 4070",
+   "idx": 38,
+   "vram": 12,
+   "year": 2023,
+   "tdp": 200
+  },
+  {
+   "token": "rtx 4060 ti",
+   "idx": 29,
+   "vram": 8,
+   "year": 2023,
+   "tdp": 160
+  },
+  {
+   "token": "rtx 4060",
+   "idx": 24,
+   "vram": 8,
+   "year": 2023,
+   "tdp": 115
+  },
+  {
+   "token": "rtx 3090 ti",
+   "idx": 48,
+   "vram": 24,
+   "year": 2022,
+   "tdp": 450
+  },
+  {
+   "token": "rtx 3090",
+   "idx": 44,
+   "vram": 24,
+   "year": 2020,
+   "tdp": 350
+  },
+  {
+   "token": "rtx 3080 ti",
+   "idx": 42,
+   "vram": 12,
+   "year": 2021,
+   "tdp": 350
+  },
+  {
+   "token": "rtx 3080",
+   "idx": 39,
+   "vram": 10,
+   "year": 2020,
+   "tdp": 320
+  },
+  {
+   "token": "rtx 3070 ti",
+   "idx": 32,
+   "vram": 8,
+   "year": 2021,
+   "tdp": 290
+  },
+  {
+   "token": "rtx 3070",
+   "idx": 30,
+   "vram": 8,
+   "year": 2020,
+   "tdp": 220
+  },
+  {
+   "token": "rtx 3060 ti",
+   "idx": 26,
+   "vram": 8,
+   "year": 2020,
+   "tdp": 200
+  },
+  {
+   "token": "rtx 3060",
+   "idx": 20,
+   "vram": 12,
+   "year": 2021,
+   "tdp": 170
+  },
+  {
+   "token": "rtx 3050",
+   "idx": 13,
+   "vram": 8,
+   "year": 2022,
+   "tdp": 130
+  },
+  {
+   "token": "rtx 2080 ti",
+   "idx": 29,
+   "vram": 11,
+   "year": 2018,
+   "tdp": 250
+  },
+  {
+   "token": "rtx 2080 super",
+   "idx": 24,
+   "vram": 8,
+   "year": 2019,
+   "tdp": 250
+  },
+  {
+   "token": "rtx 2080",
+   "idx": 23,
+   "vram": 8,
+   "year": 2018,
+   "tdp": 215
+  },
+  {
+   "token": "rtx 2070 super",
+   "idx": 21,
+   "vram": 8,
+   "year": 2019,
+   "tdp": 215
+  },
+  {
+   "token": "rtx 2070",
+   "idx": 18,
+   "vram": 8,
+   "year": 2018,
+   "tdp": 175
+  },
+  {
+   "token": "rtx 2060 super",
+   "idx": 17,
+   "vram": 8,
+   "year": 2019,
+   "tdp": 175
+  },
+  {
+   "token": "rtx 2060",
+   "idx": 15,
+   "vram": 6,
+   "year": 2019,
+   "tdp": 160
+  },
+  {
+   "token": "gtx 1660 ti",
+   "idx": 12,
+   "vram": 6,
+   "year": 2019,
+   "tdp": 120
+  },
+  {
+   "token": "gtx 1660 super",
+   "idx": 12,
+   "vram": 6,
+   "year": 2019,
+   "tdp": 125
+  },
+  {
+   "token": "gtx 1660",
+   "idx": 11,
+   "vram": 6,
+   "year": 2019,
+   "tdp": 120
+  },
+  {
+   "token": "gtx 1650 super",
+   "idx": 9,
+   "vram": 4,
+   "year": 2019,
+   "tdp": 100
+  },
+  {
+   "token": "gtx 1650",
+   "idx": 7,
+   "vram": 4,
+   "year": 2019,
+   "tdp": 75
+  },
+  {
+   "token": "gtx 1630",
+   "idx": 4,
+   "vram": 4,
+   "year": 2022,
+   "tdp": 75
+  },
+  {
+   "token": "gtx 1080 ti",
+   "idx": 17,
+   "vram": 11,
+   "year": 2017,
+   "tdp": 250
+  },
+  {
+   "token": "gtx 1080",
+   "idx": 13,
+   "vram": 8,
+   "year": 2016,
+   "tdp": 180
+  },
+  {
+   "token": "gtx 1070 ti",
+   "idx": 12,
+   "vram": 8,
+   "year": 2017,
+   "tdp": 180
+  },
+  {
+   "token": "gtx 1070",
+   "idx": 11,
+   "vram": 8,
+   "year": 2016,
+   "tdp": 150
+  },
+  {
+   "token": "gtx 1060",
+   "idx": 8,
+   "vram": 6,
+   "year": 2016,
+   "tdp": 120
+  },
+  {
+   "token": "gtx 1050 ti",
+   "idx": 4.5,
+   "vram": 4,
+   "year": 2016,
+   "tdp": 75
+  },
+  {
+   "token": "gtx 1050",
+   "idx": 3.5,
+   "vram": 2,
+   "year": 2016,
+   "tdp": 75
+  },
+  {
+   "token": "gt 1030",
+   "idx": 1.5,
+   "vram": 2,
+   "year": 2017,
+   "tdp": 30
+  },
+  {
+   "token": "gtx 980 ti",
+   "idx": 11,
+   "vram": 6,
+   "year": 2015,
+   "tdp": 250
+  },
+  {
+   "token": "gtx 980",
+   "idx": 8.5,
+   "vram": 4,
+   "year": 2014,
+   "tdp": 165
+  },
+  {
+   "token": "gtx 970",
+   "idx": 7.5,
+   "vram": 4,
+   "year": 2014,
+   "tdp": 145
+  },
+  {
+   "token": "gtx 960",
+   "idx": 4.5,
+   "vram": 2,
+   "year": 2015,
+   "tdp": 120
+  },
+  {
+   "token": "gtx 750 ti",
+   "idx": 2.5,
+   "vram": 2,
+   "year": 2014,
+   "tdp": 60
+  },
+  {
+   "token": "rx 9070 xt",
+   "idx": 57,
+   "vram": 16,
+   "year": 2025,
+   "tdp": 304
+  },
+  {
+   "token": "rx 9070",
+   "idx": 51,
+   "vram": 16,
+   "year": 2025,
+   "tdp": 220
+  },
+  {
+   "token": "rx 9060 xt",
+   "idx": 33,
+   "vram": 16,
+   "year": 2025,
+   "tdp": 160
+  },
+  {
+   "token": "rx 9060",
+   "idx": 27,
+   "vram": 8,
+   "year": 2025,
+   "tdp": 130
+  },
+  {
+   "token": "rx 7900 xtx",
+   "idx": 60,
+   "vram": 24,
+   "year": 2022,
+   "tdp": 355
+  },
+  {
+   "token": "rx 7900 xt",
+   "idx": 52,
+   "vram": 20,
+   "year": 2022,
+   "tdp": 315
+  },
+  {
+   "token": "rx 7900 gre",
+   "idx": 44,
+   "vram": 16,
+   "year": 2023,
+   "tdp": 260
+  },
+  {
+   "token": "rx 7800 xt",
+   "idx": 41,
+   "vram": 16,
+   "year": 2023,
+   "tdp": 263
+  },
+  {
+   "token": "rx 7700 xt",
+   "idx": 34,
+   "vram": 12,
+   "year": 2023,
+   "tdp": 245
+  },
+  {
+   "token": "rx 7600 xt",
+   "idx": 23,
+   "vram": 16,
+   "year": 2024,
+   "tdp": 190
+  },
+  {
+   "token": "rx 7600",
+   "idx": 22,
+   "vram": 8,
+   "year": 2023,
+   "tdp": 165
+  },
+  {
+   "token": "rx 6950 xt",
+   "idx": 43,
+   "vram": 16,
+   "year": 2022,
+   "tdp": 335
+  },
+  {
+   "token": "rx 6900 xt",
+   "idx": 40,
+   "vram": 16,
+   "year": 2020,
+   "tdp": 300
+  },
+  {
+   "token": "rx 6800 xt",
+   "idx": 38,
+   "vram": 16,
+   "year": 2020,
+   "tdp": 300
+  },
+  {
+   "token": "rx 6800",
+   "idx": 33,
+   "vram": 16,
+   "year": 2020,
+   "tdp": 250
+  },
+  {
+   "token": "rx 6750 xt",
+   "idx": 28,
+   "vram": 12,
+   "year": 2022,
+   "tdp": 250
+  },
+  {
+   "token": "rx 6700 xt",
+   "idx": 26,
+   "vram": 12,
+   "year": 2021,
+   "tdp": 230
+  },
+  {
+   "token": "rx 6700",
+   "idx": 23,
+   "vram": 10,
+   "year": 2021,
+   "tdp": 175
+  },
+  {
+   "token": "rx 6650 xt",
+   "idx": 22,
+   "vram": 8,
+   "year": 2022,
+   "tdp": 180
+  },
+  {
+   "token": "rx 6600 xt",
+   "idx": 21,
+   "vram": 8,
+   "year": 2021,
+   "tdp": 160
+  },
+  {
+   "token": "rx 6600",
+   "idx": 18,
+   "vram": 8,
+   "year": 2021,
+   "tdp": 132
+  },
+  {
+   "token": "rx 6500 xt",
+   "idx": 7,
+   "vram": 4,
+   "year": 2022,
+   "tdp": 107
+  },
+  {
+   "token": "rx 6400",
+   "idx": 5,
+   "vram": 4,
+   "year": 2022,
+   "tdp": 53
+  },
+  {
+   "token": "rx 5700 xt",
+   "idx": 20,
+   "vram": 8,
+   "year": 2019,
+   "tdp": 225
+  },
+  {
+   "token": "rx 5700",
+   "idx": 18,
+   "vram": 8,
+   "year": 2019,
+   "tdp": 180
+  },
+  {
+   "token": "rx 5600 xt",
+   "idx": 15,
+   "vram": 6,
+   "year": 2020,
+   "tdp": 150
+  },
+  {
+   "token": "rx 5500 xt",
+   "idx": 9,
+   "vram": 8,
+   "year": 2019,
+   "tdp": 130
+  },
+  {
+   "token": "rx 590",
+   "idx": 9,
+   "vram": 8,
+   "year": 2018,
+   "tdp": 225
+  },
+  {
+   "token": "rx 580",
+   "idx": 8,
+   "vram": 8,
+   "year": 2017,
+   "tdp": 185
+  },
+  {
+   "token": "rx 570",
+   "idx": 7,
+   "vram": 4,
+   "year": 2017,
+   "tdp": 150
+  },
+  {
+   "token": "rx 560",
+   "idx": 3.5,
+   "vram": 4,
+   "year": 2017,
+   "tdp": 80
+  },
+  {
+   "token": "radeon vii",
+   "idx": 22,
+   "vram": 16,
+   "year": 2019,
+   "tdp": 300
+  },
+  {
+   "token": "rx vega 64",
+   "idx": 15,
+   "vram": 8,
+   "year": 2017,
+   "tdp": 295
+  },
+  {
+   "token": "rx vega 56",
+   "idx": 13,
+   "vram": 8,
+   "year": 2017,
+   "tdp": 210
+  },
+  {
+   "token": "arc b580",
+   "idx": 25,
+   "vram": 12,
+   "year": 2024,
+   "tdp": 190
+  },
+  {
+   "token": "arc b570",
+   "idx": 21,
+   "vram": 10,
+   "year": 2025,
+   "tdp": 150
+  },
+  {
+   "token": "arc a770",
+   "idx": 21,
+   "vram": 16,
+   "year": 2022,
+   "tdp": 225
+  },
+  {
+   "token": "arc a750",
+   "idx": 19,
+   "vram": 8,
+   "year": 2022,
+   "tdp": 225
+  },
+  {
+   "token": "arc a580",
+   "idx": 16,
+   "vram": 8,
+   "year": 2023,
+   "tdp": 185
+  },
+  {
+   "token": "arc a380",
+   "idx": 6,
+   "vram": 6,
+   "year": 2022,
+   "tdp": 75
+  },
+  {
+   "token": "radeon 890m",
+   "idx": 8,
+   "vram": 0,
+   "year": 2024,
+   "tdp": 0
+  },
+  {
+   "token": "radeon 880m",
+   "idx": 7,
+   "vram": 0,
+   "year": 2024,
+   "tdp": 0
+  },
+  {
+   "token": "radeon 780m",
+   "idx": 6,
+   "vram": 0,
+   "year": 2023,
+   "tdp": 0
+  },
+  {
+   "token": "radeon 760m",
+   "idx": 5,
+   "vram": 0,
+   "year": 2023,
+   "tdp": 0
+  },
+  {
+   "token": "radeon 680m",
+   "idx": 5,
+   "vram": 0,
+   "year": 2022,
+   "tdp": 0
+  },
+  {
+   "token": "radeon 660m",
+   "idx": 3.5,
+   "vram": 0,
+   "year": 2022,
+   "tdp": 0
+  },
+  {
+   "token": "arc 140v",
+   "idx": 6.5,
+   "vram": 0,
+   "year": 2024,
+   "tdp": 0
+  },
+  {
+   "token": "arc 130v",
+   "idx": 5.5,
+   "vram": 0,
+   "year": 2024,
+   "tdp": 0
+  },
+  {
+   "token": "intel arc graphics",
+   "idx": 5,
+   "vram": 0,
+   "year": 2023,
+   "tdp": 0
+  },
+  {
+   "token": "iris xe",
+   "idx": 2.5,
+   "vram": 0,
+   "year": 2020,
+   "tdp": 0
+  },
+  {
+   "token": "iris plus",
+   "idx": 1.5,
+   "vram": 0,
+   "year": 2019,
+   "tdp": 0
+  },
+  {
+   "token": "uhd graphics 770",
+   "idx": 1.5,
+   "vram": 0,
+   "year": 2021,
+   "tdp": 0
+  },
+  {
+   "token": "uhd graphics 730",
+   "idx": 1.3,
+   "vram": 0,
+   "year": 2021,
+   "tdp": 0
+  },
+  {
+   "token": "uhd graphics 630",
+   "idx": 1.0,
+   "vram": 0,
+   "year": 2017,
+   "tdp": 0
+  },
+  {
+   "token": "uhd graphics",
+   "idx": 1.0,
+   "vram": 0,
+   "year": 2018,
+   "tdp": 0
+  },
+  {
+   "token": "hd graphics",
+   "idx": 0.7,
+   "vram": 0,
+   "year": 2015,
+   "tdp": 0
+  },
+  {
+   "token": "vega 11",
+   "idx": 2.5,
+   "vram": 0,
+   "year": 2018,
+   "tdp": 0
+  },
+  {
+   "token": "vega 8",
+   "idx": 2.2,
+   "vram": 0,
+   "year": 2019,
+   "tdp": 0
+  },
+  {
+   "token": "vega 7",
+   "idx": 2.2,
+   "vram": 0,
+   "year": 2021,
+   "tdp": 0
+  },
+  {
+   "token": "radeon graphics",
+   "idx": 1.5,
+   "vram": 0,
+   "year": 2022,
+   "tdp": 0
+  }
+ ]
+}
